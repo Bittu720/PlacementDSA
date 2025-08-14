@@ -30,3 +30,4 @@ public class Str13isomorphismeff {
     System.out.println(Isomorphism("foo", "bar") ? "True" : "False");  
 }
 }
+
