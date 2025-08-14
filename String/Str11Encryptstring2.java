@@ -35,3 +35,4 @@ public class Str11encryptstring2 {
     System.out.println(encryptString(str));
   }
 }
+
