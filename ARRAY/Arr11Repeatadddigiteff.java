@@ -11,3 +11,4 @@ public class Arr11repeatadddigiteff {
         System.out.println(singleDigit(n));
     }
 }
+
