@@ -15,3 +15,4 @@ public class Arr12removealloccure {
         System.out.println(remoelement(arr,element));
     }
 }
+
