@@ -58,3 +58,4 @@ public class LL17removeeveryknodeofthelinkedlist {
         printList(head);
     }
 }
+
