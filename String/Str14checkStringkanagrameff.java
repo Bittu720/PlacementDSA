@@ -24,4 +24,5 @@ class Str14checkstringkanagrameff{
         else
         System.out.println("No");
     }
+
 }
