@@ -20,3 +20,4 @@ public class Str12findequalPointeff {
     System.out.println(findeqlPoint(str));
  }
 }
+
