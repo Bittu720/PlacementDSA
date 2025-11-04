@@ -24,3 +24,4 @@ public class Str31minappendtoPalindrome {
     System.out.println(result);
   }
 }
+
