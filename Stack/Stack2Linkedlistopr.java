@@ -86,3 +86,4 @@ public class Stack2linkedlistopr {
         sc.close();
     }
 }
+
