@@ -27,3 +27,4 @@ public class HashMap1operationhashmap {
   System.out.println(hm.isEmpty());
  }   
 }
+
