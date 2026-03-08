@@ -27,3 +27,4 @@ public class Arraylist1 {
        System.out.println(list.contains(9));
         }
 }
+
